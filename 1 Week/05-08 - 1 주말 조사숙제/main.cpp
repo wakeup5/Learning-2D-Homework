@@ -1,0 +1,9 @@
+//Á¶»ç
+//DC
+//PaintStruct
+//BeginPaint
+//EndPaint
+//GetDC
+//ReleaseDC
+//WM_CREATE
+//WM_PAINT
